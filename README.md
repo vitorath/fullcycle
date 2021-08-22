@@ -7,3 +7,7 @@ Antes de realizar qualquer mudança no projeto é necessário ativar o **husky**
 ```bash
 npx husky install
 ```
+
+## Sumario
+
+1. Padrões e técnicas avançadas do Git e GitHub 
