@@ -11,3 +11,4 @@ npx husky install
 ## Sumario
 
 1. Padrões e técnicas avançadas do Git e GitHub 
+2. Docker
